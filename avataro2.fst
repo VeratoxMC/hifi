@@ -3,6 +3,7 @@ type = body+head
 scale = 1
 filename = avataro2/avataro2.fbx
 texdir = avataro2/textures
+joint = jointLeftHand = Wrist_L
 joint = jointRoot = UpperBody
 joint = jointLean = UpperBody2
 joint = jointRightHand = Wrist_R
